@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "65741e3b1287f38c56b7b84c"
+  },
+  "firstName": "Alice",
+  "lastName": "Smith",
+  "email": "alice.smith@email.com",
+  "password": "securePass789",
+  "address": "456 Oak Avenue, Townsville",
+  "phoneNumber": "+1 987-654-3210"
+},
+{
+  "_id": {
+    "$oid": "65741e3b1287f38c56b7b84d"
+  },
+  "firstName": "Bob",
+  "lastName": "Johnson",
+  "email": "bob.johnson@email.com",
+  "password": "passWord456",
+  "address": "789 Pine Road, Villagetown",
+  "phoneNumber": "+1 567-890-1234"
+},
+{
+  "_id": {
+    "$oid": "65741e3b1287f38c56b7b84e"
+  },
+  "firstName": "Eva",
+  "lastName": "Brown",
+  "email": "eva.brown@email.com",
+  "password": "evaPass789",
+  "address": "101 Cedar Lane, Hamletsville",
+  "phoneNumber": "+1 234-567-8901"
+},
+{
+  "_id": {
+    "$oid": "65741e3b1287f38c56b7b84f"
+  },
+  "firstName": "Michael",
+  "lastName": "Miller",
+  "email": "michael.miller@email.com",
+  "password": "mikePassword123",
+  "address": "202 Maple Street, Riverside",
+  "phoneNumber": "+1 876-543-2109"
+}]

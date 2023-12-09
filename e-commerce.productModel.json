@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "65741ff71287f38c56b7b855"
+  },
+  "name": "Smartphone X",
+  "description": "A feature-packed smartphone with advanced technology.",
+  "price": 599.99,
+  "stock": 100,
+  "category": "Electronics",
+  "imageURL": "https://example.com/smartphone_x.jpg"
+},
+{
+  "_id": {
+    "$oid": "65741ff71287f38c56b7b856"
+  },
+  "name": "Wireless Headphones",
+  "description": "High-quality wireless headphones for immersive audio experience.",
+  "price": 129.99,
+  "stock": 50,
+  "category": "Audio",
+  "imageURL": "https://example.com/wireless_headphones.jpg"
+},
+{
+  "_id": {
+    "$oid": "65741ff71287f38c56b7b857"
+  },
+  "name": "Laptop Pro",
+  "description": "Powerful laptop for professional work and gaming.",
+  "price": 1299.99,
+  "stock": 30,
+  "category": "Computers",
+  "imageURL": "https://example.com/laptop_pro.jpg"
+},
+{
+  "_id": {
+    "$oid": "65741ff71287f38c56b7b858"
+  },
+  "name": "Fitness Tracker",
+  "description": "Track your fitness goals with this sleek and efficient device.",
+  "price": 79.99,
+  "stock": 80,
+  "category": "Fitness",
+  "imageURL": "https://example.com/fitness_tracker.jpg"
+},
+{
+  "_id": {
+    "$oid": "65741ff71287f38c56b7b859"
+  },
+  "name": "Coffee Maker Deluxe",
+  "description": "Brew the perfect cup of coffee with this deluxe coffee maker.",
+  "price": 49.99,
+  "stock": 120,
+  "category": "Appliances",
+  "imageURL": "https://example.com/coffee_maker_deluxe.jpg"
+}]

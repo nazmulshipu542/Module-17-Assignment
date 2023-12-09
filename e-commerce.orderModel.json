@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "657424731287f38c56b7b86e"
+  },
+  "user": "john_doe",
+  "item": "Smartphone X",
+  "quantity": 2,
+  "totalAmount": 1199.98,
+  "shippingAddress": "123 Main Street, Cityville",
+  "status": "Shipped"
+},
+{
+  "_id": {
+    "$oid": "657424731287f38c56b7b86f"
+  },
+  "user": "alice_smith",
+  "item": "Wireless Headphones",
+  "quantity": 1,
+  "totalAmount": 129.99,
+  "shippingAddress": "456 Oak Avenue, Townsville",
+  "status": "Processing"
+},
+{
+  "_id": {
+    "$oid": "657424731287f38c56b7b870"
+  },
+  "user": "bob_johnson",
+  "item": "Laptop Pro",
+  "quantity": 3,
+  "totalAmount": 3899.97,
+  "shippingAddress": "789 Pine Road, Villagetown",
+  "status": "Delivered"
+},
+{
+  "_id": {
+    "$oid": "657424731287f38c56b7b871"
+  },
+  "user": "eva_brown",
+  "item": "Fitness Tracker",
+  "quantity": 5,
+  "totalAmount": 399.95,
+  "shippingAddress": "101 Cedar Lane, Hamletsville",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "657424731287f38c56b7b872"
+  },
+  "user": "michael_miller",
+  "item": "Coffee Maker Deluxe",
+  "quantity": 1,
+  "totalAmount": 49.99,
+  "shippingAddress": "202 Maple Street, Riverside",
+  "status": "Cancelled"
+}]

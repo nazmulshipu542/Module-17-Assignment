@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6574215b1287f38c56b7b85b"
+  },
+  "user": "john_doe",
+  "product": {
+    "name": "Smartphone X",
+    "price": 599.99,
+    "category": "Electronics"
+  },
+  "quantity": 2
+},
+{
+  "_id": {
+    "$oid": "6574215b1287f38c56b7b85c"
+  },
+  "user": "alice_smith",
+  "product": {
+    "name": "Wireless Headphones",
+    "price": 129.99,
+    "category": "Audio"
+  },
+  "quantity": 1
+},
+{
+  "_id": {
+    "$oid": "6574215b1287f38c56b7b85d"
+  },
+  "user": "bob_johnson",
+  "product": {
+    "name": "Laptop Pro",
+    "price": 1299.99,
+    "category": "Computers"
+  },
+  "quantity": 3
+},
+{
+  "_id": {
+    "$oid": "6574215b1287f38c56b7b85e"
+  },
+  "user": "eva_brown",
+  "product": {
+    "name": "Fitness Tracker",
+    "price": 79.99,
+    "category": "Fitness"
+  },
+  "quantity": 5
+}]
